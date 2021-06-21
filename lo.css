@@ -1,0 +1,42 @@
+.form
+{
+border:1px solid red;
+background-color: cornsilk;
+}
+.pass{
+    max-width: 400px;
+    margin: auto;
+}
+.un{
+    max-width: 400px;
+    margin: auto;
+    padding: 2px;
+
+}
+button{
+
+
+
+    position:absolute;
+    transform: translate(-40%,-40%);
+    
+    
+    left:40%;
+
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
